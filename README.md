@@ -230,7 +230,7 @@ Our team consists of 4 members, each contributing their unique skills to the suc
 
 If you have any suggestions or ideas to improve this project, feel free to share them with us. We’re always looking for ways to enhance our work.
 
-[Back to top](#readme-top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 
