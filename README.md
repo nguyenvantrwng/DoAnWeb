@@ -225,28 +225,12 @@ See the [open issues](https://github.com/nguyenvantrwng/DoAnWeb/issues) for a fu
 
 Our team consists of 4 members, each contributing their unique skills to the success of this project.
 
-<div style="display: flex; justify-content: space-evenly; align-items: center;">
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/201362933?v=4" alt="nguyenvantrwng" width="50" height="50" style="border-radius: 50%;"><br>
-    <a href="https://github.com/nguyenvantrwng">nguyenvantrwng</a>
-  </div>
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/125873316?v=4" alt="dangnosuy" width="50" height="50" style="border-radius: 50%;"><br>
-    <a href="https://github.com/dangnosuy">dangnosuy</a>
-  </div>
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/166407232?v=4" alt="japao88" width="50" height="50" style="border-radius: 50%;"><br>
-    <a href="https://github.com/japao88">japao88</a>
-  </div>
-  <div>
-    <img src="https://avatars.githubusercontent.com/u/201971229?v=4" alt="TongXuanVu" width="50" height="50" style="border-radius: 50%;"><br>
-    <a href="https://github.com/TongXuanVu">TongXuanVu</a>
-  </div>
-</div>
+| <img src="https://avatars.githubusercontent.com/u/201362933?v=4" alt="nguyenvantrwng" width="50" height="50" style="border-radius: 50%;"> [nguyenvantrwng](https://github.com/nguyenvantrwng) | <img src="https://avatars.githubusercontent.com/u/125873316?v=4" alt="dangnosuy" width="50" height="50" style="border-radius: 50%; margin-left: 50px;"> [dangnosuy](https://github.com/dangnosuy) | <img src="https://avatars.githubusercontent.com/u/166407232?v=4" alt="japao88" width="50" height="50" style="border-radius: 50%; margin-left: 50px;"> [japao88](https://github.com/japao88) | <img src="https://avatars.githubusercontent.com/u/201971229?v=4" alt="TongXuanVu" width="50" height="50" style="border-radius: 50%; margin-left: 50px;"> [TongXuanVu](https://github.com/TongXuanVu) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 If you have any suggestions or ideas to improve this project, feel free to share them with us. We’re always looking for ways to enhance our work.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Back to top](#readme-top)
 
 <!-- CONTACT -->
 
